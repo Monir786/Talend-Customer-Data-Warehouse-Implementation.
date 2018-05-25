@@ -1,5 +1,5 @@
 # Talend-Customer-Data-Warehouse-Implementation.
-This project is an implementation of Data Warehouse creation which is build by using Talend and Customer along with sales Data.
+This project is an implementation of Data Warehouse creation which is build by using Talend on  dataset based on Customer along with sales Data.
 
 ### Aims of this project:
 
