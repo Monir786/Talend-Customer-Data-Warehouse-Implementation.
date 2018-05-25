@@ -25,8 +25,8 @@ All by following one execution click.
 
 ### Output 
 
-Output was based on requirements, and export it into one csv file and one MySQL database (Two types of databases).
-However, it can be used to send to some other type of databases for further investigation and Visualization.
-The Main essence is we don’t need to repeat the same work again and again rather we can simply run the whole framework and get the output irrespective of the unknown raw data generates everyday.
+Output was based on requirements, and export it to one csv file along with one MySQL database (Two types of databases).
+However, it can be used to send to some other type of sdatabases for further investigation and Visualization.
+The Main essence is that we don’t need to repeat the same work again and again rather we can simply run the whole framework and get the output irrespective of the unknown raw data generates everyday.
 
 
